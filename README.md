@@ -20,4 +20,4 @@ Klasifikasi Citra Endoskopi Usus Besar untuk Mendeteksi Penyakit Polip dan Kolit
 - Morfologi Opening
 - Morfologi Closing
 - Erosi
-- Gradien Morfologi
+- Masking
