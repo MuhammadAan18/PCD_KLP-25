@@ -15,7 +15,9 @@ Klasifikasi Citra Endoskopi Usus Besar untuk Mendeteksi Penyakit Polip dan Kolit
 - Grayscale
 - Resize
 - Filtering Median
+- Sharpening
 - Thresholding
 - Morfologi Opening
 - Morfologi Closing
-- Masking
+- Erosi
+- Gradien Morfologi
